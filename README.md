@@ -8,7 +8,7 @@
 A real-time hashtag generation application using Google Cloud Platform services:
 - Frontend: Simple HTML/CSS/JS application
 - Backend: Cloud Run functions
-- AI: Gemini 2.0 flash model
+- AI: Gemini 2.5 flash model
 - Data Pipeline: Cloud Pub/Sub -> BigQuery
 
 ## Architecture
