@@ -2,7 +2,7 @@
 # Data Collector Application Demo - Hashtag Generator
 ### Serverless Real-time Data Applications: Leveraging Pub/Sub and BigQuery
 
-### See demo here: https://watlim.github.io/hashtag-generator/
+### See demo here: https://fonylew.github.io/hashtag-generator/
 
 ## Overview
 A real-time hashtag generation application using Google Cloud Platform services:
@@ -13,7 +13,7 @@ A real-time hashtag generation application using Google Cloud Platform services:
 
 ## Architecture
 ```
-Frontend (HTML/JS) -> Cloud Run Function -> Pub/Sub -> BigQuery
+Frontend (HTML/JS) -> Cloud Run Function -> Pub/Sub -> BigQuerr
                            |
                         Gemini AI
 ```
