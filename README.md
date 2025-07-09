@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Collector Application Demo - Hashtag Generator
 ### Serverless Real-time Data Applications: Leveraging Pub/Sub and BigQuery
 
@@ -57,3 +58,6 @@ Plese set up the environment variable to Cloud Secret Manager before deploying.
 TOPIC=projects/{project-id}/topics/hashtag-events
 API_KEY=your-gemini-api-key
 ```
+=======
+# hashtag-generator
+>>>>>>> d4d381e3221c5dc5e80e02d6b3ffebfb94cd8309
