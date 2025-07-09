@@ -5,6 +5,7 @@ import os
 import functions_framework
 from google import genai
 from google.cloud import pubsub
+from flask import jsonify
 
 
 @functions_framework.http
