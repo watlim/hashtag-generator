@@ -71,4 +71,4 @@ def publish(request):
     }
     publisher.publish(topic_path, json.dumps(data).encode("utf-8"))
 
-    return (data, 200, headers)
+    return (jsonify(data), 200, headers)
